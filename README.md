@@ -5,11 +5,11 @@
 • HTML5, CSS3 e JavaScript
 
 
-✒️ Autor 
+# ✒️ Autor 
 
 • Pedro Henrique Moreno
 
 
-:space_invader: Créditos
+# :space_invader: Créditos
 
 • Yagasaki7K
