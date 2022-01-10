@@ -11,4 +11,4 @@
 
 # :space_invader: Créditos
 
-• **Yagasaki7K
+**• Yagasaki7K
